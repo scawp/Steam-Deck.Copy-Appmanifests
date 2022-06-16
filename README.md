@@ -1,0 +1,1 @@
+# Steam-Deck.Copy-Appmanifests
