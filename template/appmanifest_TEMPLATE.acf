@@ -1,0 +1,7 @@
+"AppState"
+{
+	"appid"		"[APPID]"
+	"Universe"	"1"
+	"StateFlags"	"4"
+	"installdir"	"[INSTALLDIR]"
+}
